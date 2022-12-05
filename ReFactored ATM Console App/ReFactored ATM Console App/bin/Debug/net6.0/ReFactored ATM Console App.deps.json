@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReFactored ATM Console App/1.0.0": {
+        "runtime": {
+          "ReFactored ATM Console App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReFactored ATM Console App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

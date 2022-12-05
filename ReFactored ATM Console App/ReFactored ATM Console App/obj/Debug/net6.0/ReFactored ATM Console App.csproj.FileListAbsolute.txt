@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\bin\Debug\net6.0\ReFactored ATM Console App.exe
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\bin\Debug\net6.0\ReFactored ATM Console App.deps.json
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\bin\Debug\net6.0\ReFactored ATM Console App.runtimeconfig.json
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\bin\Debug\net6.0\ReFactored ATM Console App.dll
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\bin\Debug\net6.0\ReFactored ATM Console App.pdb
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ReFactored ATM Console App.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ReFactored ATM Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ReFactored ATM Console App.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ReFactored ATM Console App.AssemblyInfo.cs
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ReFactored ATM Console App.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ReFactored ATM Console App.dll
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\refint\ReFactored ATM Console App.dll
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ReFactored ATM Console App.pdb
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ReFactored ATM Console App.genruntimeconfig.cache
+C:\Users\USER\Desktop\New Projects\ReFactored ATM Console App\ReFactored ATM Console App\obj\Debug\net6.0\ref\ReFactored ATM Console App.dll
